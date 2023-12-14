@@ -13,7 +13,7 @@ function Home2Page() {
 
     return (
         <>
-            <div className="twm-home2-banner-section site-bg-gray bg-cover" style={{ backgroundImage: `url(${publicUrlFor("images/main-slider/slider2/bg1.jpg")})` }}>
+            <div className="twm-home2-banner-section site-bg-gray bg-cover" style={{ backgroundImage: `url(${publicUrlFor("images/main-slider/slider2/bg1.png")})` }}>
                 <div className="row">
                     {/*Left Section*/}
                     <div className="col-xl-6 col-lg-6 col-md-12">
