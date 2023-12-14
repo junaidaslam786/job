@@ -23,17 +23,17 @@ function Header2({ _config }) {
                                         {
                                             _config.withBlackLogo
                                                 ?
-                                                <JobZImage src="images/logo-12.png" alt="" />
+                                                <JobZImage src="images/ues-logo.png" alt="" />
                                                 :
                                                 (
                                                     _config.withWhiteLogo
                                                         ?
-                                                        <JobZImage src="images/logo-white.png" alt="" />
+                                                        <JobZImage src="images/ues-logo.png" alt="" />
                                                         :
                                                         (
                                                             _config.withLightLogo ?
                                                                 <>
-                                                                    <JobZImage id="skin_header_logo_light" src="images/logo-light-3.png" alt="" className="default-scroll-show" />
+                                                                    <JobZImage id="skin_header_logo_light" src="images/ues-logo.png.png" alt="" className="default-scroll-show" />
                                                                     <JobZImage id="skin_header_logo" src="images/logo-dark.png" alt="" className="on-scroll-show" />
                                                                 </> :
                                                                 <JobZImage id="skin_header_logo" src="images/logo-dark.png" alt="" />
