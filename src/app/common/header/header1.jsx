@@ -41,7 +41,7 @@ function Header1({ _config }) {
                             <div className="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
                                 <ul className=" nav navbar-nav">
                                     <li className="has-mega-menu"><a href="#">Home</a>
-                                        <ul className="mega-menu">
+                                        {/* <ul className="mega-menu">
                                             <li>
                                                 <ul>
                                                     <li><NavLink to={publicUser.HOME1}>Home-1</NavLink></li>
@@ -76,7 +76,7 @@ function Header1({ _config }) {
                                                     <li><NavLink to={publicUser.HOME18}>Home-18</NavLink></li>
                                                 </ul>
                                             </li>
-                                        </ul>
+                                        </ul> */}
                                     </li>
                                     <li className="has-child"><a href="#">Jobs</a>
                                         <ul className="sub-menu">
