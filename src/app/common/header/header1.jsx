@@ -41,17 +41,17 @@ function Header1({ _config }) {
                             <div className="nav-animation header-nav navbar-collapse collapse d-flex justify-content-center">
                                 <ul className=" nav navbar-nav">
                                     <li className="has-mega-menu"><a href="#">Home</a>
-                                        {/* <ul className="mega-menu">
+                                        <ul className="mega-menu">
                                             <li>
                                                 <ul>
-                                                    <li><NavLink to={publicUser.HOME1}>Home-1</NavLink></li>
-                                                    <li><NavLink to={publicUser.HOME2}>Home-2</NavLink></li>
+                                                    <li><NavLink to={publicUser.HOME1}>Home</NavLink></li>
+                                                    {/* <li><NavLink to={publicUser.HOME2}>Home-2</NavLink></li>
                                                     <li><NavLink to={publicUser.HOME3}>Home-3</NavLink></li>
                                                     <li><NavLink to={publicUser.HOME4}>Home-4</NavLink></li>
-                                                    <li><NavLink to={publicUser.HOME5}>Home-5</NavLink></li>
+                                                    <li><NavLink to={publicUser.HOME5}>Home-5</NavLink></li> */}
                                                 </ul>
                                             </li>
-                                            <li>
+                                            {/* <li>
                                                 <ul>
                                                     <li><NavLink to={publicUser.HOME6}>Home-6</NavLink></li>
                                                     <li><NavLink to={publicUser.HOME7}>Home-7</NavLink></li>
@@ -59,8 +59,8 @@ function Header1({ _config }) {
                                                     <li><NavLink to={publicUser.HOME9}>Home-9</NavLink></li>
                                                     <li><NavLink to={publicUser.HOME10}>Home-10</NavLink></li>
                                                 </ul>
-                                            </li>
-                                            <li>
+                                            </li> */}
+                                            {/* <li>
                                                 <ul>
                                                     <li><NavLink to={publicUser.HOME11}>Home-11</NavLink></li>
                                                     <li><NavLink to={publicUser.HOME12}>Home-12</NavLink></li>
@@ -68,15 +68,15 @@ function Header1({ _config }) {
                                                     <li><NavLink to={publicUser.HOME14}>Home-14</NavLink></li>
                                                     <li><NavLink to={publicUser.HOME15}>Home-15</NavLink></li>
                                                 </ul>
-                                            </li>
-                                            <li>
+                                            </li> */}
+                                            {/* <li>
                                                 <ul>
                                                     <li><NavLink to={publicUser.HOME16}>Home-16</NavLink></li>
                                                     <li><NavLink to={publicUser.HOME17}>Home-17</NavLink></li>
                                                     <li><NavLink to={publicUser.HOME18}>Home-18</NavLink></li>
                                                 </ul>
-                                            </li>
-                                        </ul> */}
+                                            </li> */}
+                                        </ul>
                                     </li>
                                     <li className="has-child"><a href="#">Jobs</a>
                                         <ul className="sub-menu">
